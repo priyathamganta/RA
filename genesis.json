@@ -9,7 +9,7 @@
      "nonce": "0x00000042",
      "difficulty": "0x1",
      "gasLimit": "90000000",
-     "coinbase": "0x0000000000000000000000000000000000000000"
+     "coinbase": "0x0000000000000000000000000000000000000000",
      "alloc": {
                 "publickey hash of the account created in node1":{
                       "balance":"0x10000000000000000000000"
