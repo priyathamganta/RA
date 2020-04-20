@@ -11,11 +11,14 @@
      "gasLimit": "90000000",
      "coinbase": "0x0000000000000000000000000000000000000000",
      "alloc": {
-                "publickey hash of the account created in node1":{
+                "0xe49D7c0c44325fE282De7f36BE97CcB11ADBeD6A":{
                       "balance":"0x10000000000000000000000"
                   },
-                "publickey hash of the account created in node2":{
+                "0x138993fE0F673E947759EB6B797dD41705D16aDA":{
                         "balance":"0x10000000000000000000000"
-                  }
+                  },
+		"0x9B00840941b33DC5fa69755f657928a55D1c65cB":{
+			"balance":"0x10000000000000000000000"
+		}
       }
 }
