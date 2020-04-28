@@ -1,0 +1,10 @@
+traceroute to 128.105.146.171 (128.105.146.171), 30 hops max, 60 byte packets
+ 1  130.127.132.1 (130.127.132.1)  0.813 ms  1.267 ms  1.224 ms
+ 2  * * *
+ 3  xe-1-1-1-816-t01-cle.culr.net (205.186.63.1)  0.677 ms  0.646 ms  0.611 ms
+ 4  xe-1-1-1-816-t01-sox.culr.net (205.186.63.2)  2.945 ms  2.922 ms  2.885 ms
+ 5  i2-to-sox-100g.sox.net (143.215.193.2)  3.023 ms  2.992 ms  2.959 ms
+ 6  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  20.679 ms  20.739 ms  20.644 ms
+ 7  144.92.254.228 (144.92.254.228)  26.167 ms  26.140 ms  26.133 ms
+ 8  rx-cssc-b380-1-core-bundle-ether1-1928.net.wisc.edu (146.151.166.121)  26.087 ms  26.287 ms  26.267 ms
+ 9  c220g1-031115vm-1.wisc.cloudlab.us (128.105.146.171)  26.015 ms  25.952 ms  25.919 ms
