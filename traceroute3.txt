@@ -1,0 +1,11 @@
+traceroute to 128.110.155.134 (128.110.155.134), 30 hops max, 60 byte packets
+ 1  control-router.wisc.cloudlab.us (128.104.222.1)  2.199 ms  2.099 ms  2.001 ms
+ 2  rx-animal-226-2-core-bundle-ether1-1928.net.wisc.edu (146.151.166.122)  0.919 ms  0.831 ms  0.775 ms
+ 3  144.92.254.229 (144.92.254.229)  5.524 ms  5.438 ms  5.695 ms
+ 4  ae-3.4079.rtsw.kans.net.internet2.edu (162.252.70.141)  17.719 ms  17.658 ms  17.545 ms
+ 5  ae-5.4079.rtsw.salt.net.internet2.edu (162.252.70.145)  36.257 ms  36.138 ms  36.247 ms
+ 6  198.71.45.231 (198.71.45.231)  36.702 ms  36.447 ms  36.355 ms
+ 7  140.197.253.1 (140.197.253.1)  36.978 ms  36.974 ms  36.882 ms
+ 8  * * *
+ 9  * * *
+10  hpvm013-1.utah.cloudlab.us (128.110.155.134)  36.581 ms  36.692 ms  36.599 ms
